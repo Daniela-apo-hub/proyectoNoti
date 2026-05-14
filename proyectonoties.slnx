@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="Backend.API/Backend.API.csproj" />
+  </Folder>
+  <Folder Name="/frondend/">
+    <Project Path="Frontend.Web/Frontend.Web.csproj" />
+  </Folder>
+</Solution>
