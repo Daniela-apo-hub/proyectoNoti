@@ -14,8 +14,6 @@ El proyecto está organizado en una solución de Visual Studio con dos bloques p
 - **/Frontend.Web**: Aplicación cliente que maneja las vistas (Razor), controladores de navegación y estilos.
 
 ## 🎨 Especificaciones de Diseño
-- **Menú Superior:** Fondo color hexadecimal `#EDF0F0`.
-- **Tipografía:** Poppins.
 - **Activos:** Imágenes de fondo ubicadas en `wwwroot/images/`.
 
 Hecho por: Daniela Aponte, Roger Salgado, Carlos Carrero y Roger Aparicio.
