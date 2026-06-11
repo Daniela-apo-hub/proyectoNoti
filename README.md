@@ -13,13 +13,9 @@ El proyecto está organizado en una solución de Visual Studio con dos bloques p
 - **/Backend.API**: Servidor encargado de la lógica, modelos de datos y servicios REST.
 - **/Frontend.Web**: Aplicación cliente que maneja las vistas (Razor), controladores de navegación y estilos.
 
-## 🎨 Especificaciones de Diseño
-- **Activos:** Imágenes de fondo ubicadas en `wwwroot/images/`.
 
 Hecho por: Daniela Aponte, Roger Salgado, Carlos Carrero y Roger Aparicio.
 
 ## 🚀 Instalación y Configuración
 1. Clonar el repositorio: `git clone https://github.com/tu-usuario/proyectonoties.git`
 2. Abrir la solución `.sln` en Visual Studio 2026.
-3. Configurar **Inicio Múltiple** para ejecutar Backend y Frontend simultáneamente.
-4. Restaurar paquetes NuGet y ejecutar.
