@@ -17,5 +17,5 @@ El proyecto está organizado en una solución de Visual Studio con dos bloques p
 Hecho por: Daniela Aponte, Roger Salgado, Carlos Carrero y Roger Aparicio.
 
 ## 🚀 Instalación y Configuración
-1. Clonar el repositorio: `git clone https://github.com/tu-usuario/proyectonoties.git`
+1. Clonar el repositorio: `https://github.com/Daniela-apo-hub/proyectoNoti.git`
 2. Abrir la solución `.sln` en Visual Studio 2026.
